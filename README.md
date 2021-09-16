@@ -1,6 +1,15 @@
 # hello-world
 
-I am a beginner (novice) in programming.
-I am currently learning the Python prgramming language.
-When I am not programming I am either reading something or playing video games.
-I also enjoying reading and writing poetry.
+The program prints "Hello World!" on the console
+
+Run the hello.py
+
+On Windows:
+- Open Terminal/Shell/Command line
+- Change directory (folder) to where you saved the hello.py file
+- run the following command: python hello.py
+
+On Linux:
+- Open Terminal/Shell/Command line
+- Change directory (folder) to where you saved the hello.py file
+- run the following command: python3 hello.py
